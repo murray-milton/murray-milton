@@ -1,18 +1,18 @@
-# Hi there! 👋 I'm Murray Milton
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Murray Milton
 
-### Full Stack Developer
+### Full Stack Developer | Microservices Enthusiast
 ---
 
 🌍 **Location:** Based in Germany  
 🖥️ **Portfolio:** [Check out my portfolio](https://murraymilton.github.io/portfolio/)  
 ✉️ **Email:** [Get in touch](mailto:x)  
-🚀 **Currently Working On:** [Project Name](http://x)  
-🧠 **Currently Learning:** [Technology/Skill]  
-🤝 **Open to Collaborating On:** [Project/Area of interest]  
+🚀 **Currently Working On:** Building scalable microservices with **Docker** and **FastAPI**  
+🧠 **Currently Learning:** Advanced Microservices Architecture & Cloud Infrastructure  
+🤝 **Open to Collaborating On:** Microservices, Docker, FastAPI, Scalable Cloud Projects
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack
 ### Languages, Frameworks & Tools
 
 <p align="left">
@@ -55,11 +55,8 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" />
 </a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" />
 </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" />
@@ -70,10 +67,18 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
 </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 </a>
 </p>
+
+---
+
+## 🖥️ Microservices & DevOps Expertise
+- **Docker:** Containerization of applications for scalable deployment.
+- **FastAPI:** Fast and efficient microservices architecture in Python.
+- **AWS:** Cloud services for deploying and managing applications.
+- **CI/CD Pipelines:** Automating builds, testing, and deployments.
 
 ---
 
@@ -90,4 +95,4 @@
 ---
 
 ## ⚡ Fun Fact
-I enjoy learning new programming languages, and currently, I'm exploring **Rust** and **Go** to broaden my knowledge and build scalable applications!
+When I'm not coding, I'm exploring new programming languages like **Rust** and **Go**, and experimenting with microservices and container orchestration for scalable architectures!
