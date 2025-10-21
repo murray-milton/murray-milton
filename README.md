@@ -122,11 +122,17 @@ Responsive portfolio developed with **React** and containerized with **Docker**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmilton1&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmilton1&layout=compact&theme=radical&hide=html,css)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mmilton1&theme=radical)
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=mmilton1&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Murray's GitHub stats" height="180em" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmilton1&layout=compact&langs_count=10&hide=html,css,shell&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mmilton1&bg_color=0d1117&color=ff0057&line=ff0057&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
+
 
 ---
 
