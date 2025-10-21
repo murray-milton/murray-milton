@@ -12,6 +12,13 @@
 
 ---
 
+## 🎓 Education
+
+![UMGC](https://img.shields.io/badge/UMGC-Software_Development_&%20Security-0071C5?style=for-the-badge&logo=umgc&logoColor=white)  
+I'm currently pursuing a **Bachelor’s in Software Development and Cyber Operations  minor Computer Science** at the **University of Maryland Global Campus** (UMGC) and am on track to graduate in **2025**. My studies focus on core software engineering principles, algorithms, data structures, and modern development practices, equipping me with the skills to excel in software engineering roles.
+
+---
+
 ## 🛠 Tech Stack
 ### Languages, Frameworks & Tools
 
@@ -79,6 +86,45 @@
 - **FastAPI:** Fast and efficient microservices architecture in Python.
 - **AWS:** Cloud services for deploying and managing applications.
 - **CI/CD Pipelines:** Automating builds, testing, and deployments.
+
+---
+
+---
+
+
+## 🖥️ Featured Projects
+
+### [Web Scraper](link)
+Automated a data extraction pipeline with Python, BeautifulSoup, and Selenium.  
+Features:
+- Handles dynamic content and multi-threading.
+- Exports data to CSV and JSON formats.
+
+### [Portfolio Website](link)
+Developed a responsive portfolio using **React** and deployed with **Docker**.  
+Features:
+- Optimized for mobile and desktop.
+- Includes real-time feedback form integration.
+
+
+---
+
+## 📈 GitHub Stats
+
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmilton1&show_icons=true&theme=radical&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmilton1&layout=compact&theme=radical&hide=html,css)
+
+  ![Streak Count](https://img.shields.io/badge/Current%20Streak-150%20days-red?style=for-the-badge&logo=github)
+
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mmilton1&theme=radical)
+  
+</div>
+
+
 
 ---
 
