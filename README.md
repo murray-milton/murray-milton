@@ -4,11 +4,12 @@
 ---
 
 🌍 **Location:** Germany  
-🖥️ **Portfolio:** [murraymilton.github.io/portfolio](https://murray-milton.github.io/dev-portfolio/)  
-✉️ **Email:** [murraylmilton@outlook.com](mailto:miltonmln357@outlook.com)  
+🖥️ **Portfolio:** [murray-milton.github.io/dev-portfolio](https://murray-milton.github.io/dev-portfolio/)  
+✉️ **Email:** [murraylmilton@outlook.com](mailto:murraylmilton@outlook.com)  
 🚀 **Currently Working On:** Building scalable **FastAPI + Docker** microservices  
 🧠 **Currently Learning:** Advanced Microservices Architecture & Cloud Infrastructure  
 🤝 **Open to Collaborating On:** Microservices, Docker, FastAPI, and Cloud Projects  
+
 
 ---
 
