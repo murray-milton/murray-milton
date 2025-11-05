@@ -12,6 +12,8 @@
 
 ---
 
+---
+
 ## 🎓 Education
 
 ![UMGC](https://img.shields.io/badge/UMGC-Software_Development_&_Security-0071C5?style=for-the-badge&logoColor=white)
