@@ -5,21 +5,14 @@
 ### 🚀 Full Stack Developer | ⚙️ Microservices Enthusiast | ☁️ Cloud & DevOps Explorer
 ---
 
-🌍 <strong>Location:</strong> Germany  
+🌍 <strong>Based in:</strong> Germany  
+💡 <strong>Mission:</strong> Building scalable, cloud-ready microservices that bridge development and infrastructure.
 
 ### 📬 Connect with Me
-<a href="https://murray-milton.github.io/dev-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-success?style=for-the-badge&logo=google-chrome" />
-</a>
-<a href="mailto:miltonmln357@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" />
-</a>
-<a href="https://www.linkedin.com/in/murray-milton/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://github.com/mmilton1">
-  <img src="https://img.shields.io/badge/GitHub-mmilt​on1-181717?style=for-the-badge&logo=github" />
-</a>
+<a href="https://murray-milton.github.io/dev-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-success?style=for-the-badge&logo=google-chrome" /></a>
+<a href="mailto:miltonmln357@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" /></a>
+<a href="https://www.linkedin.com/in/murraymilton/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://github.com/murray-milton"><img src="https://img.shields.io/badge/GitHub-murray--milton-181717?style=for-the-badge&logo=github" /></a>
 
 ---
 
@@ -29,113 +22,99 @@
 
 </div>
 
-
-
-
----
-
 ---
 
 ## 🎓 Education
 
-![UMGC](https://img.shields.io/badge/UMGC-Software_Development_&_Security-0071C5?style=for-the-badge&logoColor=white)
-
-Pursuing a **Bachelor’s in Software Development & Cyber Operations (Minor in Computer Science)** at the **University of Maryland Global Campus (UMGC)**, graduating in **2025**.  
-Focused on algorithms, data structures, databases, and secure software design.
+🎓 **University of Maryland Global Campus (UMGC)**  
+**B.S. in Software Development & Security (Minor in Computer Science)** — *Expected Graduation: 2025*  
+- Concentration: Algorithms, Data Structures, Databases, Secure Software Design  
+- Developing strong foundations in backend engineering and cybersecurity.
 
 ---
 
 ## 🛠 Tech Stack
 
----
-
-### 🧩 Languages
+### 🧩 Languages  
+> Proficient in writing clean, maintainable code across multiple paradigms.
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
 </p>
 
----
-
-### 💻 Frontend Development
+### 💻 Frontend Development  
+> Building interactive, accessible, and responsive interfaces.
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="48" height="48" alt="Angular" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <!-- Fixed tailwind path -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" />
 </p>
 
----
-
-### ⚙️ Backend Development
+### ⚙️ Backend Development  
+> Designing scalable APIs and server-side systems.
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <!-- Express is black; white chip ensures contrast -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="48" alt="Express" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring" />
 </p>
 
----
-
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps  
+> Skilled in cloud platforms, containerization, and deployment pipelines.
 <p align="left">
-  <!-- AWS wordmark is usually dark; white chip keeps it readable -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="64" height="48" alt="AWS" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud (CI/CD)" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Cloud" />
 </p>
 
----
-
-### 🗄️ Databases
+### 🗄️ Databases  
+> Experienced with relational and NoSQL data management systems.
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis" />
 </p>
 
----
-
-### 🧰 Other Tools & Tech
+### 🧰 Tools & Tech  
+> Supporting productivity, collaboration, and automation.
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" height="48" alt="Trello" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" style="background:#ffffff;border-radius:8px;padding:6px;margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" alt="Jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" alt="Trello" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
 </p>
-
 
 ---
 
 ## 🧩 Microservices & DevOps Expertise
-- **Docker:** Containerized multi-service applications  
-- **FastAPI:** Asynchronous microservices for scalable systems  
-- **AWS:** Deployed full-stack applications using EC2, S3 & RDS  
-- **CI/CD:** Automated pipelines via GitHub Actions & DockerHub  
+- 🐳 **Docker:** Containerized multi-service applications  
+- ⚡ **FastAPI:** Asynchronous microservices for scalable systems  
+- ☁️ **AWS:** Deployed full-stack applications using EC2, S3 & RDS  
+- 🔁 **CI/CD:** Automated pipelines via GitHub Actions & DockerHub  
 
 ---
 
 ## 💡 Featured Projects
 
-### 🔹 [Web Scraper](#)
+### 🔹 [Web Scraper](https://github.com/murray-milton/web-scraper)
 Automated data extraction pipeline with **Python**, **BeautifulSoup**, and **Selenium**  
 - Handles dynamic content, pagination, and multi-threading  
 - Exports structured data in CSV and JSON  
+- Packaged with Docker for easy deployment  
 
-### 🔹 [Portfolio Website](#)
+### 🔹 [Portfolio Website](https://murray-milton.github.io/dev-portfolio/)
 Responsive portfolio developed with **React** and containerized with **Docker**  
 - Optimized for performance and accessibility  
 - Integrated real-time feedback form  
@@ -146,31 +125,14 @@ Responsive portfolio developed with **React** and containerized with **Docker**
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=murray-milton&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Murray's GitHub stats" height="180em" />
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murray-milton&layout=compact&langs_count=10&hide=html,css,shell&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=murray-milton&bg_color=0d1117&color=ff0057&line=ff0057&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=murray-milton&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murray-milton&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180em" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=murray-milton&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
-
 ---
 
-## 🔗 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/murray-milton/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/murray-milton" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+💬 *“Great software doesn’t just work — it empowers.”*  
+Let’s connect and build something meaningful together. 🚀
 
----
-
-## ⚡ Fun Fact
-When I'm not coding, I'm exploring **Rust** and **Go**, experimenting with **container orchestration**, and designing **scalable cloud systems**.
