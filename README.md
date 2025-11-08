@@ -1,19 +1,34 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm **Murray Milton**
+<div align="center">
 
-### Full Stack Developer | Microservices Enthusiast | Cloud & DevOps Explorer
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm <strong>Murray Milton</strong>
+
+### 🚀 Full Stack Developer | ⚙️ Microservices Enthusiast | ☁️ Cloud & DevOps Explorer
 ---
 
-🌍 **Location:** Germany  
+🌍 <strong>Location:</strong> Germany  
 
 ### 📬 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-success?style=flat-square&logo=google-chrome)](https://murray-milton.github.io/dev-portfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail)](mailto:miltonmln357@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/murraymilton/)
-[![GitHub](https://img.shields.io/badge/GitHub-mmilt​on1-181717?style=flat-square&logo=github)](https://github.com/mmilton1)
+<a href="https://murray-milton.github.io/dev-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-success?style=for-the-badge&logo=google-chrome" />
+</a>
+<a href="mailto:miltonmln357@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://www.linkedin.com/in/murray-milton/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/mmilton1">
+  <img src="https://img.shields.io/badge/GitHub-mmilt​on1-181717?style=for-the-badge&logo=github" />
+</a>
 
-🚀 **Currently Working On:** Building scalable **FastAPI + Docker** microservices  
-🧠 **Currently Learning:** Advanced Microservices Architecture & Cloud Infrastructure  
-🤝 **Open to Collaborating On:** Microservices, Docker, FastAPI, and Cloud Projects  
+---
+
+🚀 <strong>Currently Working On:</strong> Building scalable <strong>FastAPI + Docker</strong> microservices  
+🧠 <strong>Currently Learning:</strong> Advanced Microservices Architecture & Cloud Infrastructure  
+🤝 <strong>Open to Collaborating On:</strong> Microservices, Docker, FastAPI, and Cloud Projects  
+
+</div>
+
 
 
 
