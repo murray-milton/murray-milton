@@ -4,11 +4,17 @@
 ---
 
 🌍 **Location:** Germany  
-🖥️ **Portfolio:** [murray-milton.github.io/dev-portfolio](https://murray-milton.github.io/dev-portfolio/)  
-✉️ **Email:** [miltonmln357@gmail.com](mailto:miltonmln357@gmail.com)  
+
+### 📬 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-success?style=flat-square&logo=google-chrome)](https://murray-milton.github.io/dev-portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail)](mailto:miltonmln357@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/murraymilton/)
+[![GitHub](https://img.shields.io/badge/GitHub-mmilt​on1-181717?style=flat-square&logo=github)](https://github.com/mmilton1)
+
 🚀 **Currently Working On:** Building scalable **FastAPI + Docker** microservices  
 🧠 **Currently Learning:** Advanced Microservices Architecture & Cloud Infrastructure  
 🤝 **Open to Collaborating On:** Microservices, Docker, FastAPI, and Cloud Projects  
+
 
 
 ---
