@@ -109,7 +109,7 @@
 ## 💡 Featured Projects
 
 ### 🔹 [Vaulty — Intelligent DLP Scanner](https://github.com/murray-milton/vaulty-dlp-scanner)
-AI-augmented **Data Loss Prevention (DLP)** and **Sensitive Data Scanner** built with **Python**, **Streamlit**, and **Modern Security Principles**.  
+**Data Loss Prevention (DLP)** and **Sensitive Data Scanner** built with **Python**, **Streamlit**, and **Modern Security Principles**.  
 
 - 🧠 Detects **PII**, **secrets**, and **compliance violations** in text, files, and repositories  
 - 🧩 Uses **pattern recognition**, **validation engines**, and **risk scoring** for precision  
