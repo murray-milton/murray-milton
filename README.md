@@ -108,11 +108,15 @@
 
 ## 💡 Featured Projects
 
-### 🔹 [Web Scraper](https://github.com/murray-milton/web-scraper)
-Automated data extraction pipeline with **Python**, **BeautifulSoup**, and **Selenium**  
-- Handles dynamic content, pagination, and multi-threading  
-- Exports structured data in CSV and JSON  
-- Packaged with Docker for easy deployment  
+### 🔹 [Vaulty — Intelligent DLP Scanner](https://github.com/murray-milton/vaulty-dlp-scanner)
+AI-augmented **Data Loss Prevention (DLP)** and **Sensitive Data Scanner** built with **Python**, **FastAPI**, and **Modern Security Principles**.  
+
+- 🧠 Detects **PII**, **secrets**, and **compliance violations** in text, files, and repositories  
+- 🧩 Uses **pattern recognition**, **validation engines**, and **risk scoring** for precision  
+- ⚙️ Modular, **microservice-ready architecture** for scalable integration  
+- 🧰 Secured with **Bandit**, **Ruff**, and **pytest-cov** to maintain best-in-class quality  
+- 🌐 Exposes REST API + CLI for use in CI/CD pipelines or cloud environments
+
 
 ### 🔹 [Portfolio Website](https://murray-milton.github.io/dev-portfolio/)
 Responsive portfolio developed with **React** and containerized with **Docker**  
