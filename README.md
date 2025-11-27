@@ -108,14 +108,43 @@
 
 ## 💡 Featured Projects
 
-### 🔹 [Vaulty — Intelligent DLP Scanner](https://github.com/murray-milton/vaulty-dlp-scanner)
-**Data Loss Prevention (DLP)** and **Sensitive Data Scanner** built with **Python**, **Streamlit**, and **Modern Security Principles**.  
+# 🔒 Vaulty —  DLP File Scanner  
+<div align="center">
 
-- 🧠 Detects **PII**, **secrets**, and **compliance violations** in text, files, and repositories  
-- 🧩 Uses **pattern recognition**, **validation engines**, and **risk scoring** for precision  
-- ⚙️ Modular, **microservice-ready architecture** for scalable integration  
-- 🧰 Secured with **Bandit**, **Ruff**, and **pytest-cov** to maintain best-in-class quality  
-- 🌐 Exposes REST API + CLI for use in CI/CD pipelines or cloud environments
+<img src="https://raw.githubusercontent.com/murray-milton/vaulty-dlp-scanner/main/src/vaulty/static/image/vaulty_favicon.png" width="120">
+
+### **UMGC Capstone Project (2025)**  
+**Local-First • Privacy-Focused • Secure-By-Design**
+
+[![Live Demo – Vaulty](https://img.shields.io/badge/Live_Demo-Open_App-blue?style=for-the-badge&logo=streamlit)](https://vaultydlpscanner.streamlit.app)
+
+### 🚀 Try Vaulty Now  
+👉 **<a href="https://vaultydlpscanner.streamlit.app" target="_blank">vaultydlpscanner.streamlit.app</a>**
+
+</div>
+
+---
+
+A modern **Data Loss Prevention (DLP)** and **Sensitive Data Scanner** built with **Python**, **Streamlit**, and **secure-by-design engineering principles**.  
+Developed as part of my **2025 UMGC Capstone**, Vaulty showcases real-world security engineering, clean modular design, and production-grade Python development.
+
+### 🔐 Features  
+- 🧠 Detects **PII**, **secrets**, and **compliance-relevant patterns**  
+- 🧩 Uses **Luhn validation** to reduce credit card false positives  
+- ⚖️ Generates **explainable risk scores**  
+- 📄 Exports clean, auditor-ready **JSON reports**  
+- 🛡 100% **local-only** processing — zero uploads, zero cloud dependencies  
+- 🧰 Secured with **Bandit**, **Ruff**, **pytest**, **coverage**, and **mypy**
+
+### 🧱 Architecture  
+- Modular codebase: `extractors/`, `detectors/`, `scanner/`, `reporting/`  
+- Comprehensive test suite covering extraction → detection → reporting  
+- Streamlit UI for intuitive scanning  
+- CI/CD pipeline enforcing linting, typing, complexity, and security checks
+
+### 🔗 Source Code  
+👉 **https://github.com/murray-milton/vaulty-dlp-scanner**
+
 
 
 ### 🔹 [Portfolio Website](https://murray-milton.github.io/dev-portfolio/)
