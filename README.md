@@ -119,7 +119,7 @@
 [![Live Demo – Vaulty](https://img.shields.io/badge/Live_Demo-Open_App-blue?style=for-the-badge&logo=streamlit)](https://vaulty-dlp-scanner.onrender.com/)
 
 ### 🚀 Try Vaulty Now  
-👉 **<a href="https://vaulty-dlp-scanner.onrender.com/" target="_blank">vaultydlpscanner.streamlit.app</a>**
+👉 **<a href="https://vaulty-dlp-scanner.onrender.com/" target="_blank">Vaulty File Scanner DLP</a>**
 
 </div>
 
