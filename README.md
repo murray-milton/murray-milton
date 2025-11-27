@@ -116,10 +116,10 @@
 ### **UMGC Capstone Project (2025)**  
 **Local-First • Privacy-Focused • Secure-By-Design**
 
-[![Live Demo – Vaulty](https://img.shields.io/badge/Live_Demo-Open_App-blue?style=for-the-badge&logo=streamlit)](https://vaulty-dlp-scanner.onrender.com/)
+[![Live Demo – Vaulty](https://img.shields.io/badge/Live_Demo-Open_App-blue?style=for-the-badge&logo=streamlit)](https://vaultydlpscanner.streamlit.app/)
 
 ### 🚀 Try Vaulty Now  
-👉 **<a href="https://vaulty-dlp-scanner.onrender.com/" target="_blank">Vaulty File Scanner DLP</a>**
+👉 **<a href="https://vaultydlpscanner.streamlit.app/" target="_blank">Vaulty File Scanner DLP</a>**
 
 </div>
 
